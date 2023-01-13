@@ -1,5 +1,5 @@
 # Xipher
-[XipherLogo](https://user-images.githubusercontent.com/46077685/211902267-981b05f5-0df0-48c8-a83e-da17d1b4f2df.png)
+[![Xipher](https://user-images.githubusercontent.com/46077685/211902267-981b05f5-0df0-48c8-a83e-da17d1b4f2df.png)](https://user-images.githubusercontent.com/46077685/211902267-981b05f5-0df0-48c8-a83e-da17d1b4f2df.png)
 
 Xipher is a simple GUI for encrypting/decrypting files using PyQt5 and AES. User can select a file, enter a password and encrypt or decrypt it. The encryption/decryption uses a password-based key generated using PBKDF2. Good for demonstration, but use a vetted library in real-world scenarios.
 File Crypto GUI
